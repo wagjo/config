@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <creator>audacious-plugins-2.4.4</creator>
+  <title>Untitled Playlist</title>
+  <trackList>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/01%20Kov%C3%A1%C4%8D%20kuje.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY</creator>
+      <title>Kováè kuje</title>
+      <album>Deom 2</album>
+      <trackNum>1</trackNum>
+      <duration>77000</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/02%20Mal%C3%BD%20po%C4%8Dt%C3%A1r.mp3</location>
+      <title>Malý poètár</title>
+      <album>Deom 2</album>
+      <trackNum>2</trackNum>
+      <duration>127586</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/03%20Varila%20my%C5%A1i%C4%8Dka.mp3</location>
+      <title>Varila myièka</title>
+      <album>Deom 2</album>
+      <trackNum>3</trackNum>
+      <duration>119146</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/04%20Hojda%20hojda.mp3</location>
+      <title>Hojda hojda</title>
+      <album>Deom 2</album>
+      <trackNum>4</trackNum>
+      <duration>154360</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/05%20Slnie%C4%8Dko%20sa%20zobudilo.mp3</location>
+      <title>Slnieèko sa zobudilo</title>
+      <album>Deom 2</album>
+      <trackNum>5</trackNum>
+      <duration>93506</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/06%20Zlat%C3%A1%20br%C3%A1na.mp3</location>
+      <title>Zlatá brána</title>
+      <album>Deom 2</album>
+      <trackNum>6</trackNum>
+      <duration>137360</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/07%20Tancuj%20tancuj.mp3</location>
+      <title>Tancuj tancuj</title>
+      <album>Deom 2</album>
+      <trackNum>7</trackNum>
+      <duration>142866</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/08%20Pl%C3%A1va%20ka%C4%8Dka.mp3</location>
+      <title>Pláva kaèka</title>
+      <album>Deom 2</album>
+      <trackNum>8</trackNum>
+      <duration>108440</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/09%20Ide%20vl%C3%A1%C4%8Dik%20%C5%A1i-%C5%A1i-%C5%A1i.mp3</location>
+      <title>Ide vláèik i-i-i</title>
+      <album>Deom 2</album>
+      <trackNum>9</trackNum>
+      <duration>161386</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/10%20%C4%8Eate%C4%BE.mp3</location>
+      <title>Ïate¾</title>
+      <album>Deom 2</album>
+      <trackNum>10</trackNum>
+      <duration>114293</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/11%20Sl%C3%BA%C5%BEil%20som%20sl%C3%BA%C5%BEil.mp3</location>
+      <title>Slúil som slúil</title>
+      <album>Deom 2</album>
+      <trackNum>11</trackNum>
+      <duration>230853</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/12%20Oli%20oli%20Janko.mp3</location>
+      <title>Oli oli Janko</title>
+      <album>Deom 2</album>
+      <trackNum>12</trackNum>
+      <duration>131800</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/13%20Telef%C3%B3n.mp3</location>
+      <title>Telefón</title>
+      <album>Deom 2</album>
+      <trackNum>13</trackNum>
+      <duration>153680</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/14%20Jarn%C3%A9%20kvety.mp3</location>
+      <title>Jarné kvety</title>
+      <album>Deom 2</album>
+      <trackNum>14</trackNum>
+      <duration>89666</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/15%20Bolo%20raz%20jab%C4%BA%C4%8Dko.mp3</location>
+      <title>Bolo raz jabåèko</title>
+      <album>Deom 2</album>
+      <trackNum>15</trackNum>
+      <duration>116880</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/16%20Po%20n%C3%A1bre%C5%BE%C3%AD%20kon%C3%ADk%20be%C5%BE%C3%AD.mp3</location>
+      <title>Po nábreí koník beí</title>
+      <album>Deom 2</album>
+      <trackNum>16</trackNum>
+      <duration>114293</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/17%20Ruky%20ru%C4%8Di%C4%8Dky.mp3</location>
+      <title>Ruky ruèièky</title>
+      <album>Deom 2</album>
+      <trackNum>17</trackNum>
+      <duration>88986</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/18%20Zaja%C4%8Dik%20u%C5%A1ia%C4%8Dik.mp3</location>
+      <title>Zajaèik uiaèik</title>
+      <album>Deom 2</album>
+      <trackNum>18</trackNum>
+      <duration>85373</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/19%20P%C3%A1slo%20diev%C4%8Da%20p%C3%A1vy.mp3</location>
+      <title>Páslo dievèa pávy</title>
+      <album>Deom 2</album>
+      <trackNum>19</trackNum>
+      <duration>180826</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/20%20Re%C5%A5az.mp3</location>
+      <title>Reaz</title>
+      <album>Deom 2</album>
+      <trackNum>20</trackNum>
+      <duration>134226</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/21%20Bol%20raz%20jeden%20mal%C3%BD%20ps%C3%AD%C4%8Dek.mp3</location>
+      <title>Bol raz jeden malý psíèek</title>
+      <album>Deom 2</album>
+      <trackNum>21</trackNum>
+      <duration>100813</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/22%20Na%20hada.mp3</location>
+      <title>Na hada</title>
+      <album>Deom 2</album>
+      <trackNum>22</trackNum>
+      <duration>132213</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/23%20Pokapala%20na%20sala%C5%A1i%20slanina.mp3</location>
+      <title>Pokapala na salai slanina</title>
+      <album>Deom 2</album>
+      <trackNum>23</trackNum>
+      <duration>133440</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/24%20Kom%20kom%20kom%C3%A1r.mp3</location>
+      <title>Kom kom komár</title>
+      <album>Deom 2</album>
+      <trackNum>24</trackNum>
+      <duration>103720</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/25%20Slnie%C4%8Dko.mp3</location>
+      <title>Slnieèko</title>
+      <album>Deom 2</album>
+      <trackNum>25</trackNum>
+      <duration>136000</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/26%20Hajaj%20t%C3%AD%C5%A1ko.mp3</location>
+      <title>Hajaj tíko</title>
+      <album>Deom 2</album>
+      <trackNum>26</trackNum>
+      <duration>146320</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/27%20Lietala%20si%20lastovi%C4%8Dka.mp3</location>
+      <title>Lietala si lastovièka</title>
+      <album>Deom 2</album>
+      <trackNum>27</trackNum>
+      <duration>114266</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/28%20%C4%8Cerven%C3%A9%20jab%C4%BA%C4%8Dko.mp3</location>
+      <title>Èervené jabåèko</title>
+      <album>Deom 2</album>
+      <trackNum>28</trackNum>
+      <duration>97106</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/29%20%C4%8Cierne%20o%C4%8Di.mp3</location>
+      <title>Èierne oèi</title>
+      <album>Deom 2</album>
+      <trackNum>29</trackNum>
+      <duration>144826</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/30%20Tam%20r%C3%A1stla%20kr%C3%A1sna%20jedli%C4%8Dka.mp3</location>
+      <title>Tam rástla krásna jedlièka</title>
+      <album>Deom 2</album>
+      <trackNum>30</trackNum>
+      <duration>160240</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/31%20Svie%C5%A5%20n%C3%A1m%20strom%C4%8Dek%20jagav%C3%BD.mp3</location>
+      <title>Svie nám stromèek jagavý</title>
+      <album>Deom 2</album>
+      <trackNum>31</trackNum>
+      <duration>165466</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/32%20Postav%C3%ADm%20si%20snehuliaka.mp3</location>
+      <title>Postavím si snehuliaka</title>
+      <album>Deom 2</album>
+      <trackNum>32</trackNum>
+      <duration>165986</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/33%20Mikul%C3%A1%C5%A1ku%20dobr%C3%BD%20str%C3%BD%C4%8Dku.mp3</location>
+      <title>Mikuláku dobrý strýèku</title>
+      <album>Deom 2</album>
+      <trackNum>33</trackNum>
+      <duration>93573</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/34%20Sedemdesiat%20sukien%20mala.mp3</location>
+      <title>Sedemdesiat sukien mala</title>
+      <album>Deom 2</album>
+      <trackNum>34</trackNum>
+      <duration>129759</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/35%20O%20zaja%C4%8Dikoch.mp3</location>
+      <title>O zajaèikoch</title>
+      <album>Deom 2</album>
+      <trackNum>35</trackNum>
+      <duration>78266</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%202/36%20Ke%C4%8F%20si%20%C5%A1%C5%A5astn%C3%BD.mp3</location>
+      <title>Keï si astný</title>
+      <album>Deom 2</album>
+      <trackNum>36</trackNum>
+      <duration>122960</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+  </trackList>
+</playlist>

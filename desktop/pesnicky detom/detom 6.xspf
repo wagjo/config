@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <creator>audacious-plugins-2.4.4</creator>
+  <title>Untitled Playlist</title>
+  <trackList>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2001%29.mp3</location>
+      <title>Track 1</title>
+      <trackNum>1</trackNum>
+      <duration>123940</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2002%29.mp3</location>
+      <title>Track 2</title>
+      <trackNum>2</trackNum>
+      <duration>81386</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2003%29.mp3</location>
+      <title>Track 3</title>
+      <trackNum>3</trackNum>
+      <duration>106176</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2004%29.mp3</location>
+      <title>Track 4</title>
+      <trackNum>4</trackNum>
+      <duration>154372</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2005%29.mp3</location>
+      <title>Track 5</title>
+      <trackNum>5</trackNum>
+      <duration>87029</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2006%29.mp3</location>
+      <title>Track 6</title>
+      <trackNum>6</trackNum>
+      <duration>157873</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2007%29.mp3</location>
+      <title>Track 7</title>
+      <trackNum>7</trackNum>
+      <duration>109624</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2008%29.mp3</location>
+      <title>Track 8</title>
+      <trackNum>8</trackNum>
+      <duration>157220</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2009%29.mp3</location>
+      <title>Track 9</title>
+      <trackNum>9</trackNum>
+      <duration>125141</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2010%29.mp3</location>
+      <title>Track 10</title>
+      <trackNum>10</trackNum>
+      <duration>109677</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2011%29.mp3</location>
+      <title>Track 11</title>
+      <trackNum>11</trackNum>
+      <duration>95623</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2012%29.mp3</location>
+      <title>Track 12</title>
+      <trackNum>12</trackNum>
+      <duration>141703</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2013%29.mp3</location>
+      <title>Track 13</title>
+      <trackNum>13</trackNum>
+      <duration>149879</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2014%29.mp3</location>
+      <title>Track 14</title>
+      <trackNum>14</trackNum>
+      <duration>82692</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2015%29.mp3</location>
+      <title>Track 15</title>
+      <trackNum>15</trackNum>
+      <duration>139744</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2016%29.mp3</location>
+      <title>Track 16</title>
+      <trackNum>16</trackNum>
+      <duration>115450</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2017%29.mp3</location>
+      <title>Track 17</title>
+      <trackNum>17</trackNum>
+      <duration>142016</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2018%29.mp3</location>
+      <title>Track 18</title>
+      <trackNum>18</trackNum>
+      <duration>140710</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2019%29.mp3</location>
+      <title>Track 19</title>
+      <trackNum>19</trackNum>
+      <duration>165997</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2020%29.mp3</location>
+      <title>Track 20</title>
+      <trackNum>20</trackNum>
+      <duration>150349</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2021%29.mp3</location>
+      <title>Track 21</title>
+      <trackNum>21</trackNum>
+      <duration>69918</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2022%29.mp3</location>
+      <title>Track 22</title>
+      <trackNum>22</trackNum>
+      <duration>81778</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2023%29.mp3</location>
+      <title>Track 23</title>
+      <trackNum>23</trackNum>
+      <duration>655218</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20pre%20deticky/PESNI%C4%8CKY%20PRE%20DETI%C4%8CKY%20%28Track%2024%29.mp3</location>
+      <title>Track 24</title>
+      <trackNum>24</trackNum>
+      <duration>145961</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">320</meta>
+    </track>
+  </trackList>
+</playlist>

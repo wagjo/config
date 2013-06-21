@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <creator>audacious-plugins-2.4.4</creator>
+  <title>Untitled Playlist</title>
+  <trackList>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/uspvanky_do_postieky/belize_mi_beli.ogg</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Belize mi, beli</title>
+      <album>Uspávanky do postie¾ky</album>
+      <meta rel="genre">12</meta>
+      <trackNum>21</trackNum>
+      <duration>143613</duration>
+      <meta rel="year">2007</meta>
+      <meta rel="quality">lossy</meta>
+      <meta rel="codec">Ogg Vorbis [Xiph.Org libVorbis I 20070622]</meta>
+      <meta rel="mime-type">application/ogg</meta>
+      <meta rel="bitrate">113</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/uspvanky_do_postieky/cierne_oci_chodte_spat.ogg</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Cierne oci chodte spat</title>
+      <album>Uspávanky do postie¾ky</album>
+      <meta rel="genre">12</meta>
+      <trackNum>15</trackNum>
+      <duration>159946</duration>
+      <meta rel="year">2007</meta>
+      <meta rel="quality">lossy</meta>
+      <meta rel="codec">Ogg Vorbis [Xiph.Org libVorbis I 20070622]</meta>
+      <meta rel="mime-type">application/ogg</meta>
+      <meta rel="bitrate">111</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/uspvanky_do_postieky/do_snckov.ogg</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Do sníckov</title>
+      <album>Uspávanky do postie¾ky</album>
+      <meta rel="genre">12</meta>
+      <trackNum>5</trackNum>
+      <duration>114440</duration>
+      <meta rel="year">2007</meta>
+      <meta rel="quality">lossy</meta>
+      <meta rel="codec">Ogg Vorbis [Xiph.Org libVorbis I 20070622]</meta>
+      <meta rel="mime-type">application/ogg</meta>
+      <meta rel="bitrate">101</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/uspvanky_do_postieky/dob_noc.ogg</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Dobú noc</title>
+      <album>Uspávanky do postie¾ky</album>
+      <meta rel="genre">12</meta>
+      <trackNum>9</trackNum>
+      <duration>219853</duration>
+      <meta rel="year">2007</meta>
+      <meta rel="quality">lossy</meta>
+      <meta rel="codec">Ogg Vorbis [Xiph.Org libVorbis I 20070622]</meta>
+      <meta rel="mime-type">application/ogg</meta>
+      <meta rel="bitrate">115</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/uspvanky_do_postieky/dotyky_snov.ogg</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Dotyky snov</title>
+      <album>Uspávanky do postie¾ky</album>
+      <meta rel="genre">12</meta>
+      <trackNum>18</trackNum>
+      <duration>164840</duration>
+      <meta rel="year">2007</meta>
+      <meta rel="quality">lossy</meta>
+      <meta rel="codec">Ogg Vorbis [Xiph.Org libVorbis I 20070622]</meta>
+      <meta rel="mime-type">application/ogg</meta>
+      <meta rel="bitrate">101</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/uspvanky_do_postieky/ej_pad_rosicka.ogg</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Ej, padá rosicka</title>
+      <album>Uspávanky do postie¾ky</album>
+      <meta rel="genre">12</meta>
+      <trackNum>19</trackNum>
+      <duration>150853</duration>
+      <meta rel="year">2007</meta>
+      <meta rel="quality">lossy</meta>
+      <meta rel="codec">Ogg Vorbis [Xiph.Org libVorbis I 20070622]</meta>
+      <meta rel="mime-type">application/ogg</meta>
+      <meta rel="bitrate">123</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/uspvanky_do_postieky/haja_haja_haja.ogg</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Haja, haja, haja</title>
+      <album>Uspávanky do postie¾ky</album>
+      <meta rel="genre">12</meta>
+      <trackNum>16</trackNum>
+      <duration>101906</duration>
+      <meta rel="year">2007</meta>
+      <meta rel="quality">lossy</meta>
+      <meta rel="codec">Ogg Vorbis [Xiph.Org libVorbis I 20070622]</meta>
+      <meta rel="mime-type">application/ogg</meta>
+      <meta rel="bitrate">119</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/uspvanky_do_postieky/hajaj_bvaj_buvickaj.ogg</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Hajaj, búvaj, buvickaj</title>
+      <album>Uspávanky do postie¾ky</album>
+      <meta rel="genre">12</meta>
+      <trackNum>4</trackNum>
+      <duration>174040</duration>
+      <meta rel="year">2007</meta>
+      <meta rel="quality">lossy</meta>
+      <meta rel="codec">Ogg Vorbis [Xiph.Org libVorbis I 20070622]</meta>
+      <meta rel="mime-type">application/ogg</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/uspvanky_do_postieky/hajaj_tsko.ogg</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Hajaj tísko</title>
+      <album>Uspávanky do postie¾ky</album>
+      <meta rel="genre">12</meta>
+      <trackNum>13</trackNum>
+      <duration>147933</duration>
+      <meta rel="year">2007</meta>
+      <meta rel="quality">lossy</meta>
+      <meta rel="codec">Ogg Vorbis [Xiph.Org libVorbis I 20070622]</meta>
+      <meta rel="mime-type">application/ogg</meta>
+      <meta rel="bitrate">125</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/uspvanky_do_postieky/hajaze_mi_hajaj.ogg</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Hajaze mi, hajaj</title>
+      <album>Uspávanky do postie¾ky</album>
+      <meta rel="genre">12</meta>
+      <trackNum>10</trackNum>
+      <duration>140946</duration>
+      <meta rel="year">2007</meta>
+      <meta rel="quality">lossy</meta>
+      <meta rel="codec">Ogg Vorbis [Xiph.Org libVorbis I 20070622]</meta>
+      <meta rel="mime-type">application/ogg</meta>
+      <meta rel="bitrate">122</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/uspvanky_do_postieky/moja_bbika.ogg</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Moja bábika</title>
+      <album>Uspávanky do postie¾ky</album>
+      <meta rel="genre">12</meta>
+      <trackNum>3</trackNum>
+      <duration>145080</duration>
+      <meta rel="year">2007</meta>
+      <meta rel="quality">lossy</meta>
+      <meta rel="codec">Ogg Vorbis [Xiph.Org libVorbis I 20070622]</meta>
+      <meta rel="mime-type">application/ogg</meta>
+      <meta rel="bitrate">127</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/uspvanky_do_postieky/moja_zlat_mamina.ogg</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Moja zlatá mamina</title>
+      <album>Uspávanky do postie¾ky</album>
+      <meta rel="genre">12</meta>
+      <trackNum>11</trackNum>
+      <duration>169880</duration>
+      <meta rel="year">2007</meta>
+      <meta rel="quality">lossy</meta>
+      <meta rel="codec">Ogg Vorbis [Xiph.Org libVorbis I 20070622]</meta>
+      <meta rel="mime-type">application/ogg</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/uspvanky_do_postieky/o_com_snva_sen.ogg</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>O com sníva sen</title>
+      <album>Uspávanky do postie¾ky</album>
+      <meta rel="genre">12</meta>
+      <trackNum>8</trackNum>
+      <duration>116146</duration>
+      <meta rel="year">2007</meta>
+      <meta rel="quality">lossy</meta>
+      <meta rel="codec">Ogg Vorbis [Xiph.Org libVorbis I 20070622]</meta>
+      <meta rel="mime-type">application/ogg</meta>
+      <meta rel="bitrate">125</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/uspvanky_do_postieky/padla_hviezda.ogg</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Padla hviezda</title>
+      <album>Uspávanky do postie¾ky</album>
+      <meta rel="genre">12</meta>
+      <trackNum>12</trackNum>
+      <duration>157973</duration>
+      <meta rel="year">2007</meta>
+      <meta rel="quality">lossy</meta>
+      <meta rel="codec">Ogg Vorbis [Xiph.Org libVorbis I 20070622]</meta>
+      <meta rel="mime-type">application/ogg</meta>
+      <meta rel="bitrate">120</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/uspvanky_do_postieky/pekne_spinkaj_bbika.ogg</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Pekne spinkaj, bábika</title>
+      <album>Uspávanky do postie¾ky</album>
+      <meta rel="genre">12</meta>
+      <trackNum>7</trackNum>
+      <duration>187093</duration>
+      <meta rel="year">2007</meta>
+      <meta rel="quality">lossy</meta>
+      <meta rel="codec">Ogg Vorbis [Xiph.Org libVorbis I 20070622]</meta>
+      <meta rel="mime-type">application/ogg</meta>
+      <meta rel="bitrate">127</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/uspvanky_do_postieky/spi_bbika.ogg</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Spi, bábika</title>
+      <album>Uspávanky do postie¾ky</album>
+      <meta rel="genre">12</meta>
+      <trackNum>6</trackNum>
+      <duration>210613</duration>
+      <meta rel="year">2007</meta>
+      <meta rel="quality">lossy</meta>
+      <meta rel="codec">Ogg Vorbis [Xiph.Org libVorbis I 20070622]</meta>
+      <meta rel="mime-type">application/ogg</meta>
+      <meta rel="bitrate">119</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/uspvanky_do_postieky/spi_dietatko.ogg</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Spi dietatko</title>
+      <album>Uspávanky do postie¾ky</album>
+      <meta rel="genre">12</meta>
+      <trackNum>14</trackNum>
+      <duration>154053</duration>
+      <meta rel="year">2007</meta>
+      <meta rel="quality">lossy</meta>
+      <meta rel="codec">Ogg Vorbis [Xiph.Org libVorbis I 20070622]</meta>
+      <meta rel="mime-type">application/ogg</meta>
+      <meta rel="bitrate">122</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/uspvanky_do_postieky/spi_dietatko_spi.ogg</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Spi, dietatko, spi</title>
+      <album>Uspávanky do postie¾ky</album>
+      <meta rel="genre">12</meta>
+      <trackNum>2</trackNum>
+      <duration>125120</duration>
+      <meta rel="year">2007</meta>
+      <meta rel="quality">lossy</meta>
+      <meta rel="codec">Ogg Vorbis [Xiph.Org libVorbis I 20070622]</meta>
+      <meta rel="mime-type">application/ogg</meta>
+      <meta rel="bitrate">119</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/uspvanky_do_postieky/spize_mi_spize_mi.ogg</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Spize mi, spize mi</title>
+      <album>Uspávanky do postie¾ky</album>
+      <meta rel="genre">12</meta>
+      <trackNum>20</trackNum>
+      <duration>149546</duration>
+      <meta rel="year">2007</meta>
+      <meta rel="quality">lossy</meta>
+      <meta rel="codec">Ogg Vorbis [Xiph.Org libVorbis I 20070622]</meta>
+      <meta rel="mime-type">application/ogg</meta>
+      <meta rel="bitrate">119</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/uspvanky_do_postieky/usni_mi_usni_mi.ogg</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Usni mi, usni mi</title>
+      <album>Uspávanky do postie¾ky</album>
+      <meta rel="genre">12</meta>
+      <trackNum>22</trackNum>
+      <duration>165266</duration>
+      <meta rel="year">2007</meta>
+      <meta rel="quality">lossy</meta>
+      <meta rel="codec">Ogg Vorbis [Xiph.Org libVorbis I 20070622]</meta>
+      <meta rel="mime-type">application/ogg</meta>
+      <meta rel="bitrate">115</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/uspvanky_do_postieky/uspvanka.ogg</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Uspávanka</title>
+      <album>Uspávanky do postie¾ky</album>
+      <meta rel="genre">12</meta>
+      <trackNum>1</trackNum>
+      <duration>189266</duration>
+      <meta rel="year">2007</meta>
+      <meta rel="quality">lossy</meta>
+      <meta rel="codec">Ogg Vorbis [Xiph.Org libVorbis I 20070622]</meta>
+      <meta rel="mime-type">application/ogg</meta>
+      <meta rel="bitrate">118</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/uspvanky_do_postieky/zahrajte_mi_tichcko.ogg</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Zahrajte mi tichúcko</title>
+      <album>Uspávanky do postie¾ky</album>
+      <meta rel="genre">12</meta>
+      <trackNum>17</trackNum>
+      <duration>115200</duration>
+      <meta rel="year">2007</meta>
+      <meta rel="quality">lossy</meta>
+      <meta rel="codec">Ogg Vorbis [Xiph.Org libVorbis I 20070622]</meta>
+      <meta rel="mime-type">application/ogg</meta>
+      <meta rel="bitrate">113</meta>
+    </track>
+  </trackList>
+</playlist>

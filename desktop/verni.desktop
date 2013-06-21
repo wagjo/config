@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Verni Priatelia
+GenericName=Game
+Comment=PlayOnLinux
+Type=Application
+Exec=wine /bla/filmy/verni/vp.exe
+Icon=/usr/share/playonlinux/etc/playonlinux.png
+Categories=PlayOnLinux;
+Name[fr_FR]=Microsoft Office PowerPoint 2003

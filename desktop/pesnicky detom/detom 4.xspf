@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <creator>audacious-plugins-2.4.4</creator>
+  <title>Untitled Playlist</title>
+  <trackList>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%204/01%20-%20Tancujem%2C%20spievam%20si.mp3</location>
+      <creator>Maria Podhradska a R. Canaky</creator>
+      <title>Tancujem, spievam si</title>
+      <album>Detom 4</album>
+      <annotation>﻿Made by King</annotation>
+      <trackNum>1</trackNum>
+      <duration>161888</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%204/02%20-%20Keby%20si%20mal%20takuto%20malu%20vieru.mp3</location>
+      <creator>Maria Podhradska a R. Canaky</creator>
+      <title>Keby si mal takuto malu vieru</title>
+      <album>Detom 4</album>
+      <annotation>﻿Made by King</annotation>
+      <trackNum>2</trackNum>
+      <duration>236651</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%204/03%20-%20Aleluja%20sabalaba%20labambam.mp3</location>
+      <creator>Maria Podhradska a R. Canaky</creator>
+      <title>Aleluja sabalaba labambam</title>
+      <album>Detom 4</album>
+      <annotation>﻿Made by King</annotation>
+      <trackNum>3</trackNum>
+      <duration>139736</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%204/04%20-%20Ked%20Pan%20Jezis%20bol%20malicky.mp3</location>
+      <creator>Maria Podhradska a R. Canaky</creator>
+      <title>Ked Pan Jezis bol malicky</title>
+      <album>Detom 4</album>
+      <annotation>﻿Made by King</annotation>
+      <trackNum>4</trackNum>
+      <duration>96399</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%204/05%20-%20Boh%20lubi%20ma.mp3</location>
+      <creator>Maria Podhradska a R. Canaky</creator>
+      <title>Boh lubi ma</title>
+      <album>Detom 4</album>
+      <annotation>﻿Made by King</annotation>
+      <trackNum>5</trackNum>
+      <duration>126021</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%204/06%20-%20Krok%20sem%2C%20krok%20tam.mp3</location>
+      <creator>Maria Podhradska a R. Canaky</creator>
+      <title>Krok sem, krok tam</title>
+      <album>Detom 4</album>
+      <annotation>﻿Made by King</annotation>
+      <trackNum>6</trackNum>
+      <duration>113953</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%204/07%20-%20Male%20koniky%20lubi%20Boh.mp3</location>
+      <creator>Maria Podhradska a R. Canaky</creator>
+      <title>Male koniky lubi Boh</title>
+      <album>Detom 4</album>
+      <annotation>﻿Made by King</annotation>
+      <trackNum>7</trackNum>
+      <duration>160425</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%204/08%20-%20Spievaj%20aleluja%20s%20radostou.mp3</location>
+      <creator>Maria Podhradska a R. Canaky</creator>
+      <title>Spievaj aleluja s radostou</title>
+      <album>Detom 4</album>
+      <annotation>﻿Made by King</annotation>
+      <trackNum>8</trackNum>
+      <duration>123906</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%204/09%20-%20Si%20moj%20Pan.mp3</location>
+      <creator>Maria Podhradska a R. Canaky</creator>
+      <title>Si moj Pan</title>
+      <album>Detom 4</album>
+      <annotation>﻿Made by King</annotation>
+      <trackNum>9</trackNum>
+      <duration>169149</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%204/10%20-%20Moje%20male%20svetielko.mp3</location>
+      <creator>Maria Podhradska a R. Canaky</creator>
+      <title>Moje male svetielko</title>
+      <album>Detom 4</album>
+      <annotation>﻿Made by King</annotation>
+      <trackNum>10</trackNum>
+      <duration>143968</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%204/11%20-%20Ci%20si%20velky%2C%20ci%20si%20maly.mp3</location>
+      <creator>Maria Podhradska a R. Canaky</creator>
+      <title>Ci si velky, ci si maly</title>
+      <album>Detom 4</album>
+      <annotation>﻿Made by King</annotation>
+      <trackNum>11</trackNum>
+      <duration>183126</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%204/12%20-%20Toto%20je%20den.mp3</location>
+      <creator>Maria Podhradska a R. Canaky</creator>
+      <title>Toto je den</title>
+      <album>Detom 4</album>
+      <annotation>﻿Made by King</annotation>
+      <trackNum>12</trackNum>
+      <duration>146345</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%204/13%20-%20Kto%20stvoril%20zmurkajuce%20hviezdy.mp3</location>
+      <creator>Maria Podhradska a R. Canaky</creator>
+      <title>Kto stvoril zmurkajuce hviezd</title>
+      <album>Detom 4</album>
+      <annotation>﻿Made by King</annotation>
+      <trackNum>13</trackNum>
+      <duration>122548</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%204/14%20-%20Ide%20Jezis.mp3</location>
+      <creator>Maria Podhradska a R. Canaky</creator>
+      <title>Ide Jezis</title>
+      <album>Detom 4</album>
+      <annotation>﻿Made by King</annotation>
+      <trackNum>14</trackNum>
+      <duration>179128</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%204/15%20-%20Kto%20je%20panom%20dzungle.mp3</location>
+      <creator>Maria Podhradska a R. Canaky</creator>
+      <title>Kto je panom dzungle</title>
+      <album>Detom 4</album>
+      <annotation>﻿Made by King</annotation>
+      <trackNum>15</trackNum>
+      <duration>114502</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%204/16%20-%20Boh%20ta%20miluje%20a%20ja%20ta%20milujem.mp3</location>
+      <creator>Maria Podhradska a R. Canaky</creator>
+      <title>Boh ta miluje a ja ta milujem</title>
+      <album>Detom 4</album>
+      <annotation>﻿Made by King</annotation>
+      <trackNum>16</trackNum>
+      <duration>148540</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%204/17%20-%20Ku%20koncu%20chyli%20sa%20den.mp3</location>
+      <creator>Maria Podhradska a R. Canaky</creator>
+      <title>Ku koncu chyli sa den</title>
+      <album>Detom 4</album>
+      <annotation>﻿Made by King</annotation>
+      <trackNum>17</trackNum>
+      <duration>133310</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+  </trackList>
+</playlist>

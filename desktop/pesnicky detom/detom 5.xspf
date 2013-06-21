@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <creator>audacious-plugins-2.4.4</creator>
+  <title>Untitled Playlist</title>
+  <trackList>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/01-O%20zvieratkach.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>O zvieratkách</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>1</trackNum>
+      <duration>117016</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/02-Pri%20potoku%20sedela.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Pri potoku sedela</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>2</trackNum>
+      <duration>118427</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/03-Dupkaju%20nozicky.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Dupkajú noièky</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>3</trackNum>
+      <duration>80157</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/04-Pasla%20ovecky.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Pásla oveèky</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>4</trackNum>
+      <duration>126446</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/05-Ponosa.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Ponosa</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>5</trackNum>
+      <duration>110773</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/06-Cerveny%20kachel.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Èervený kache¾</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>6</trackNum>
+      <duration>90606</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/07-Rucky.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Rúèky</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>7</trackNum>
+      <duration>118662</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/08-Ide%2C%20ide%20vlacik.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Ide, ide vláèik</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>8</trackNum>
+      <duration>122006</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/09-Spievanky.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Spievanky</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>9</trackNum>
+      <duration>145881</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/10-Sedi%20mucha%20na%20stene.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Sedí mucha na stene</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>10</trackNum>
+      <duration>128208</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/11-Ceresnicky%2C%20ceresne.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Èerenicky, èerene</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>11</trackNum>
+      <duration>117080</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/12-Do%20mestecka%20Poriadkova.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Do mesteèka Poriadkova</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>12</trackNum>
+      <duration>112247</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/13-Rafaela%20stonozka.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Rafaela stonoka</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>13</trackNum>
+      <duration>141949</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/14-Z%20Vychodnej%20dievcata.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Z Východnej dievèatá</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>14</trackNum>
+      <duration>173217</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/15-Toci%20sa%20mi%2C%20toci.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Toèí sa mi, toèí</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>15</trackNum>
+      <duration>127216</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/16-Snehuliak.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Snehuliak</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>16</trackNum>
+      <duration>170004</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/17-Snehova%20vlocka.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Snehová vloèka</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>17</trackNum>
+      <duration>116949</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/18-V%20zime.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>V zime</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>18</trackNum>
+      <duration>136019</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/19-Anicka%2C%20dusicka.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Anièka, duièka</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>19</trackNum>
+      <duration>87953</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/20-Vesela%20pistalka.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Vesela p횝alka</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>20</trackNum>
+      <duration>174001</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/21-Dinom%2C%20danom.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Dínom, dánom</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>21</trackNum>
+      <duration>124812</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/22-Po%20valassky%20od%20zeme.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Po valasky od zeme</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>22</trackNum>
+      <duration>96913</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/23-Futbal%20to%20je%20super%20hra.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Futbal to je super hra</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>23</trackNum>
+      <duration>110732</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/24-Malovana%20abeceda.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Ma¾ována abeceda</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>24</trackNum>
+      <duration>369266</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%205/anicka-dusicka.mp3</location>
+      <creator>Mária Podhradská a Richard Èanaky</creator>
+      <title>Anièka, duièka</title>
+      <album>Deom 5</album>
+      <meta rel="genre">For children</meta>
+      <trackNum>19</trackNum>
+      <duration>87953</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">256</meta>
+    </track>
+  </trackList>
+</playlist>

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Microsoft Office Word 2003
+GenericName=Game
+Comment=PlayOnLinux
+Type=Application
+Exec=/usr/share/playonlinux/playonlinux --run "Microsoft Office Word 2003"
+Icon=/usr/share/playonlinux/etc/playonlinux.png
+Categories=PlayOnLinux;
+Name[fr_FR]=Microsoft Office Word 2003

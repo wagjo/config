@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <creator>audacious-plugins-2.4.4</creator>
+  <title>Untitled Playlist</title>
+  <trackList>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/01%20Mal%C3%AD%20muzikanti.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Malí muzikanti</title>
+      <album>Deom 1</album>
+      <trackNum>1</trackNum>
+      <duration>115840</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/02%20%C5%A4uki%2C%20%C5%A5uki%20%C5%A5ukalo.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>uki, uki ukalo</title>
+      <album>Deom 1</album>
+      <trackNum>2</trackNum>
+      <duration>119080</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/03%20I%C5%A1la%20sova%20na%20tanec.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Ila sova na tanec</title>
+      <album>Deom 1</album>
+      <trackNum>3</trackNum>
+      <duration>74306</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/04%20Kolo%2C%20kolo%20mlynsk%C3%A9.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Kolo, kolo mlynské</title>
+      <album>Deom 1</album>
+      <trackNum>4</trackNum>
+      <duration>115866</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/05%20Pr%C5%A1%C3%AD%2C%20pr%C5%A1%C3%AD.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Prí, prí</title>
+      <album>Deom 1</album>
+      <trackNum>5</trackNum>
+      <duration>77986</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/06%20Koh%C3%BAtik%20jarab%C3%AD.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Kohútik jarabí</title>
+      <album>Deom 1</album>
+      <trackNum>6</trackNum>
+      <duration>92506</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/07%20%C5%BDenilo%20sa%20motovidlo.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>enilo sa motovidlo</title>
+      <album>Deom 1</album>
+      <trackNum>7</trackNum>
+      <duration>103946</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/08%20N%C3%A1%C5%A1%20Brok.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Ná Brok</title>
+      <album>Deom 1</album>
+      <trackNum>8</trackNum>
+      <duration>85800</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/09%20Spi%20die%C5%A5atko.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Spi dieatko</title>
+      <album>Deom 1</album>
+      <trackNum>9</trackNum>
+      <duration>101786</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/10%20Spi%20b%C3%A1bika.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Spi bábika</title>
+      <album>Deom 1</album>
+      <trackNum>10</trackNum>
+      <duration>190333</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/11%20Moja%20mamka%20nie%C4%8Do%20m%C3%A1.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Moja mamka nieèo má</title>
+      <album>Deom 1</album>
+      <trackNum>11</trackNum>
+      <duration>122573</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/12%20Krtko.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Krtko</title>
+      <album>Deom 1</album>
+      <trackNum>12</trackNum>
+      <duration>89160</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/13%20Mali%C4%8Dk%C3%A1%20som.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Malièká som</title>
+      <album>Deom 1</album>
+      <trackNum>13</trackNum>
+      <duration>109853</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/14%20Medve%C4%8Fku%2C%20daj%20labku.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Medveïku, daj labku</title>
+      <album>Deom 1</album>
+      <trackNum>14</trackNum>
+      <duration>134360</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/15%20Na%20cesti%C4%8Dke%20roh%C3%A1%C4%8D.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Na cestièke roháè</title>
+      <album>Deom 1</album>
+      <trackNum>15</trackNum>
+      <duration>85840</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/16%20%C4%8Cie%20s%C3%BA%20to%20kone.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Èie sú to kone</title>
+      <album>Deom 1</album>
+      <trackNum>16</trackNum>
+      <duration>135840</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/17%20Kukulianka%2C%20kde%20si%20bola.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Kukulianka, kde si bola</title>
+      <album>Deom 1</album>
+      <trackNum>17</trackNum>
+      <duration>101160</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/18%20Pec%20n%C3%A1m%20spadla.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Pec nám spadla</title>
+      <album>Deom 1</album>
+      <trackNum>18</trackNum>
+      <duration>70880</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/19%20Snie%C5%BEik%20sa%20n%C3%A1m%20chumel%C3%AD.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Snieik sa nám chumelí</title>
+      <album>Deom 1</album>
+      <trackNum>19</trackNum>
+      <duration>96453</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/20%20Pad%C3%A1%20snie%C5%BEik.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Padá snieik</title>
+      <album>Deom 1</album>
+      <trackNum>20</trackNum>
+      <duration>147520</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/21%20Snehulia%C4%8Dik.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Snehuliaèik</title>
+      <album>Deom 1</album>
+      <trackNum>21</trackNum>
+      <duration>57733</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/22%20Sne%C5%BEienka.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Sneienka</title>
+      <album>Deom 1</album>
+      <trackNum>22</trackNum>
+      <duration>138960</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/23%20Cipovi%C4%8Dka.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Cipovièka</title>
+      <album>Deom 1</album>
+      <trackNum>23</trackNum>
+      <duration>86573</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/24%20Na%20zelenej%20l%C3%BAke.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Na zelenej lúke</title>
+      <album>Deom 1</album>
+      <trackNum>24</trackNum>
+      <duration>95800</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/25%20Takto%20letia%20vt%C3%A1ci.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Takto letia vtáci</title>
+      <album>Deom 1</album>
+      <trackNum>25</trackNum>
+      <duration>82893</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/26%20%C5%A4ap%20%C5%A5ap%20%C5%A5apu%C5%A1ky.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>ap ap apuky</title>
+      <album>Deom 1</album>
+      <trackNum>26</trackNum>
+      <duration>90053</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/27%20%C4%8Eatelinka.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Ïatelinka</title>
+      <album>Deom 1</album>
+      <trackNum>27</trackNum>
+      <duration>165253</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/28%20Kr%C3%A1sna%2C%20kr%C3%A1sna.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Krásna, krásna</title>
+      <album>Deom 1</album>
+      <trackNum>28</trackNum>
+      <duration>105440</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/29%20Na%20dvore.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Na dvore</title>
+      <album>Deom 1</album>
+      <trackNum>29</trackNum>
+      <duration>163560</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/30%20My%20sme%20smel%C3%AD%20vojaci.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>My sme smelí vojaci</title>
+      <album>Deom 1</album>
+      <trackNum>30</trackNum>
+      <duration>112360</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/31%20Pod%20horou%2C%20pod%20horou.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Pod horou, pod horou</title>
+      <album>Deom 1</album>
+      <trackNum>31</trackNum>
+      <duration>130960</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/32%20Jedna%20druhej%20riekla.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Jedna druhej riekla</title>
+      <album>Deom 1</album>
+      <trackNum>32</trackNum>
+      <duration>81173</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/33%20%C4%8C%C3%AD%C5%BEi%C4%8Dek%2C%20%C4%8D%C3%AD%C5%BEi%C4%8Dek.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Èíièek, èíièek</title>
+      <album>Deom 1</album>
+      <trackNum>33</trackNum>
+      <duration>139133</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/34%20G%C3%BA%C4%BEalo%20sa%20g%C3%BA%C4%BEalo.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Gú¾alo sa gú¾alo</title>
+      <album>Deom 1</album>
+      <trackNum>34</trackNum>
+      <duration>103120</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/35%20Bola%20babka.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Bola babka</title>
+      <album>Deom 1</album>
+      <trackNum>35</trackNum>
+      <duration>77986</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/36%20Vesel%C3%A9%20my%C5%A1ky.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Veselé myky</title>
+      <album>Deom 1</album>
+      <trackNum>36</trackNum>
+      <duration>176053</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/ostatn%C3%A9/37%20Track%2037.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Track 37</title>
+      <album>Deom 1</album>
+      <trackNum>37</trackNum>
+      <duration>89666</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/ostatn%C3%A9/38%20Track%2038.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Track 38</title>
+      <album>Deom 1</album>
+      <trackNum>38</trackNum>
+      <duration>163320</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/ostatn%C3%A9/39%20Track%2039.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Track 39</title>
+      <album>Deom 1</album>
+      <trackNum>39</trackNum>
+      <duration>80440</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/ostatn%C3%A9/40%20Track%2040.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Track 40</title>
+      <album>Deom 1</album>
+      <trackNum>40</trackNum>
+      <duration>91986</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>file:///home/wagjo/local/hudba/detom/pesnicky%20detom%201/ostatn%C3%A9/41%20Track%2041.mp3</location>
+      <creator>PODHRADSKA, MARIA &amp; CANAKY - DETOM 1,LUDOVE PIESNE PRE NAJM</creator>
+      <title>Track 41</title>
+      <album>Deom 1</album>
+      <trackNum>41</trackNum>
+      <duration>65053</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">128</meta>
+    </track>
+  </trackList>
+</playlist>
