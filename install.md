@@ -10,7 +10,7 @@
 * mount /backup
     * get UUID - sudo blkid /dev/sda1
     * sudo gedit /etc/fstab
-    * UUID=f06892d9-7ff9-4b94-b611-f4953b6235e0   /backup   ext4   defaults   0   0
+    * UUID=1619cb1a-c0fb-4744-90a1-e7eb1e0b8045   /backup   ext4   defaults   0   0
 * SSD support
     * add `defaults,noatime,discard` in `/etc/fstab`
     * see current scheduler, `cat /sys/block/sdX/queue/scheduler`
@@ -28,7 +28,10 @@
     * `sudo gedit /etc/default/grub` and change timeout to 1
     * `sudo update-grub`
 * update, upgrade and install new apps
-    * `sudo apt-get install mc vlc skype audacious k3b emacs24 gimp git cups-pdf subversion ttf-mscorefonts-installer openvpn`
+    * `sudo add-apt-repository ppa:ubuntu-wine/ppa`
+    * `sudo apt-get update`
+    * `sudo apt-get upgrade`
+    * `sudo apt-get install mc vlc skype audacious k3b emacs24 gimp git cups-pdf subversion ttf-mscorefonts-installer openvpn wine1.6 gitk virtualbox-4.2`
 * remove redundant apt
     * `sudo apt-get autoremove`
     * `sudo apt-get autoclean`
@@ -78,7 +81,21 @@
     * /backup for backups (/backup/safe, /backup/local, /backup/inbound)
     * adapt to previous pc
     * `sudo gedit /etc/sysctl.conf` `fs.inotify.max_user_watches=1048576`
-
+* lein
+    * `wget https://raw.github.com/technomancy/leiningen/stable/bin/lein`
+    * `chmod +x ./lein`
+    * `sudo cp ./lein /usr/local/bin/`
+* oracle java
+    * sudo add-apt-repository ppa:webupd8team/java
+    * sudo apt-get update
+    * sudo apt-get install oracle-java7-installer
+    * sudo gedit /etc/profile
+        * `JAVA_HOME=/usr/lib/jvm/java7-oracle`
+        * `PATH=$PATH:$JAVA_HOME/bin`
+        * `export JAVA_HOME`
+        * `export PATH`
+* emacs
+    * copy /data/safe/config/emacs.d to ~/.emacs.d
 * wuala
 * playonlinux
 

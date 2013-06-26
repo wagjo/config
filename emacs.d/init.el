@@ -1,16 +1,14 @@
 (require 'package)
 (add-to-list 'package-archives
              '("marmalade" . "http://marmalade-repo.org/packages/") t)
-(add-to-list 'package-archives
-             '("melpa" . "http://melpa.milkbox.net/packages/") t)
 (package-initialize)
 
 (when (not package-archive-contents)
   (package-refresh-contents))
 
 ;; Add in your own as you wish:
-(defvar my-packages '(starter-kit starter-kit-lisp starter-kit-bindings 
-nrepl clojure-mode)
+(defvar my-packages '(starter-kit starter-kit-lisp starter-kit-bindings
+ clojure-mode clojurescript-mode color-theme highlight-parentheses nrepl)
   "A list of packages to ensure are installed at launch.")
 
 (dolist (p my-packages)
@@ -18,6 +16,7 @@ nrepl clojure-mode)
     (package-install p)))
 
 (add-to-list 'custom-theme-load-path "~/.emacs.d/black")
+(add-to-list 'load-path "~/.emacs.d/rain")
 
 (global-set-key [M-left] 'windmove-left)          ; move to left windnow
 (global-set-key [M-right] 'windmove-right)        ; move to right window
@@ -106,7 +105,7 @@ nrepl clojure-mode)
 
 (eval-after-load "color-theme"
   '(progn
-     (color-theme-initialize)
+;;     (color-theme-initialize)
      (color-theme-blackboard)))
 
 (defun toggle-fullscreen (&optional f)
@@ -146,3 +145,6 @@ nrepl clojure-mode)
 (global-unset-key (kbd "C-z"))
 
 (setq nrepl-port '"41817")
+
+(set-default-font "Source Code Pro-16")
+(set-face-attribute 'default nil :font "Source Code Pro-16")
