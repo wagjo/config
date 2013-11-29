@@ -6,7 +6,7 @@
 * mount /data
     * get UUID - sudo blkid /dev/sdb1
     * sudo gedit /etc/fstab
-    * UUID=34732001-487f-4446-854f-642026ed3bc3   /data   ext4   defaults   0   0
+    * UUID=fa22e156-b09c-481c-a6a5-c4e442dbed49   /data   ext4   defaults   0   0
 * mount /backup
     * get UUID - sudo blkid /dev/sda1
     * sudo gedit /etc/fstab
@@ -98,4 +98,8 @@
     * copy /data/safe/config/emacs.d to ~/.emacs.d
 * wuala
 * playonlinux
+* virtualbox
+    * `VBoxManage modifyvm winko7-dev --hardwareuuid xxx`
+    * `sudo usermod -aG vboxusers wagjo`
+
 
